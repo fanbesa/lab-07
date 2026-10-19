@@ -1,7 +1,7 @@
 # CMPUT 301: Lab 7 Participation Exercise
 
 ## Student Details
-- **Full Name:** Fenet Anbesa`
+- **Full Name:** `Fenet Anbesa`
 - **CCID:** `fanbesa`
 
 ## References and Resources
